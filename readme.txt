@@ -1,29 +1,9 @@
-﻿READ.ME
+Portfolio date 20/07/2024  
 
-# Mon Projet de Site Web Arromafrance
+Vous trouverez ici mon tout premier portfolio. 
+J'ai créé ce site dans le cadre de ma recherche d'alternance et pour renforcer ma candidature en tant que futur développeur web. 
 
-## Description
-
-Ce projet est une réplique de mon site CMS,( https://arromafrance.com que je développe dans le but de démontrer mes compétences en développement web. La structure initiale de ce projet a été trouvée sur internet, et je travaille actuellement à la modifier pour correspondre à mon site CMS actuel.
-
-## Fonctionnalités
-Ticker horizontal avec images et texte
-- Structure HTML et CSS de base
-- Utilisation de JavaScript pour l'animation
-
-à prévoir 
-- Refactorisation du code pour une meilleure maintenabilité
-- Implémentation des fonctionnalités e-commerce :
-- Intégration des modes de paiement (Stripe, PayPal, etc.)
-- Gestion des produits et des stocks
-- Système de panier et de commande
-- Sécurisation des transactions et des données utilisateurs
-- Configuration des options de livraison et de suivi
-- Création de comptes utilisateurs et gestion des authentifications
-- Implémentation des politiques de retour et de remboursement
-
-## Objectifs
-
-- Reproduire les fonctionnalités et le design de mon site CMS
-- Améliorer la structure du code pour qu'elle soit plus propre et plus maintenable
-- Ajouter des fonctionnalités supplémentaires et des optimisations
+Rest a fair
+- Ajouter des projets
+- Rendre le formulaire fonctionnel,
+                               
